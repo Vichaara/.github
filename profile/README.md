@@ -2,9 +2,9 @@
 
 ---
 
-In Legal and contracting, high-stakes decisions require consistent outcomes and explainability. LLMs can generate language. They cannot be the authority.
+What happens when you press **play** on your contracts?
 
-Vichaara is the certainty layer beneath the Legal AI tools you already run. Deterministic. Explainable. Grounded.
+An LLM can tell you what a contract says. Vichaara understands what it does. Built as reasoning infrastructure beneath the Legal AI tools you already run, Vichaara makes every answer deterministic, explainable, and traced to the clause.
 
 Learn more: [vichaara.ai](https://vichaara.ai)
 
